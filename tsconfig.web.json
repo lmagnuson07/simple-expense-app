@@ -8,6 +8,9 @@
   ],
   "compilerOptions": {
     "composite": true,
+    "sourceMap": true,
+    "inlineSources": true,
+    "inlineSourceMap": true,
     "baseUrl": ".",
     "paths": {
       "@renderer/*": [
